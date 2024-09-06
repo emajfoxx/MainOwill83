@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MainOwill83
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💎 Hi, I’m @Emaj Foxx
+- 🧍🏾‍♂️ An developer for
+- 🏰 Empyrean Studio
+- ⚖️ I’m looking to collaborate on making logo, websites, and apps.
+- 🍺 Contact me by email j420foxx@gmail.com
 
 <!---
 MainOwill83/MainOwill83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 💎 Hi, I’m @Emaj Foxx
 - 🧍🏾‍♂️ An developer for
-- 🏰 Empyrean Studio
+- 🏰  "Empyrean Studio"
 - ⚖️ I’m looking to collaborate on making logo, websites, and apps.
 - 🍺 Contact me by email j420foxx@gmail.com
 
